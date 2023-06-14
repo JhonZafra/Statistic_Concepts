@@ -9,5 +9,8 @@ Los *notebooks* están divididos en semanas y abarcan las siguientes temáticas:
 2. Semana 2: 
   - Análisis descriptivo de datos.
   - Seaborn
+3. Semana III
+  - Teoría de probabilidad 
 
 
+ 
