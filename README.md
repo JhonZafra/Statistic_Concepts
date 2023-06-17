@@ -1,6 +1,6 @@
 # **Métodos estadísticos con Python**
 
-Este material es el recopilado del curso métodos estadísticos usando pyhton como herramienta para la aplicación a casos de estudio.
+Este material es el recopilado del curso métodos estadísticos usando python como herramienta para la aplicación a casos de estudio.
 Los *notebooks* están divididos en semanas y abarcan las siguientes temáticas:
 
 1. Semana I: 
