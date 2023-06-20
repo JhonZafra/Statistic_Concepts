@@ -11,8 +11,8 @@ Los *notebooks* están divididos en semanas y abarcan las siguientes temáticas:
   - Seaborn
 3. Semana III
   - Teoría de probabilidad:
-    - Tería de conjuntos
-    - Pandas
+  - Tería de conjuntos
+  - Pandas
 4. Semana IV   
 
 
