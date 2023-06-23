@@ -16,7 +16,8 @@ Los *notebooks* están divididos en semanas y abarcan las siguientes temáticas:
 4. Semana IV
   - Experimentos aleatorios y espacio muestral
   - Propiedades de probabilidad
-  - Enfoque clásico, frecuentista y Bayesiano de la probabilidad 
+  - Enfoque clásico, frecuentista y Bayesiano de la probabilidad
+  - Combinaciones y Permutaciones
 
 
  
