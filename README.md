@@ -18,6 +18,5 @@ Los *notebooks* están divididos en semanas y abarcan las siguientes temáticas:
   - Propiedades de probabilidad
   - Enfoque clásico, frecuentista y Bayesiano de la probabilidad
   - Combinaciones y Permutaciones
-
-
+5. Semana V
  
