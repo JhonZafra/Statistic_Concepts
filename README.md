@@ -19,4 +19,6 @@ Los *notebooks* están divididos en semanas y abarcan las siguientes temáticas:
   - Enfoque clásico, frecuentista y Bayesiano de la probabilidad
   - Combinaciones y Permutaciones
 5. Semana V
+  - Variables aleatorias discretas y continuas.
+  - Distribuciones discretas de probabilidad
  
