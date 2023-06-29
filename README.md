@@ -21,4 +21,5 @@ Los *notebooks* están divididos en semanas y abarcan las siguientes temáticas:
 5. Semana V
   - Variables aleatorias discretas y continuas.
   - Distribuciones discretas de probabilidad
+  - Distribuciones continuas de probabilidad
  
