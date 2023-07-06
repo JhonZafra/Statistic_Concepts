@@ -23,4 +23,5 @@ Los *notebooks* están divididos en semanas y abarcan las siguientes temáticas:
   - Distribuciones discretas de probabilidad
 6. Semana VI
   - Distribuciones continuas de probabilidad
+  - Métodos Montecarlo
  
