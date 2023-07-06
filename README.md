@@ -24,4 +24,6 @@ Los *notebooks* están divididos en semanas y abarcan las siguientes temáticas:
 6. Semana VI
   - Distribuciones continuas de probabilidad
   - Métodos Montecarlo
+  - Teorema del límite central
+
  
