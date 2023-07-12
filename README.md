@@ -22,8 +22,8 @@ Los *notebooks* están divididos en semanas y abarcan las siguientes temáticas:
   - Variables aleatorias discretas y continuas.
   - Distribuciones discretas de probabilidad
 6. Semana VI
-  - Distribuciones continuas de probabilidad
   - Métodos Montecarlo
   - Teorema del límite central
 7. Semana VII
+  -  
  
