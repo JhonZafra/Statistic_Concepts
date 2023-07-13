@@ -27,4 +27,5 @@ Los *notebooks* están divididos en semanas y abarcan las siguientes temáticas:
 7. Semana VII
   -  Muestreo
   -  Uso de filtros en python
+  -  Estadística Inferencial
  
