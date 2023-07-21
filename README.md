@@ -29,5 +29,5 @@ Los *notebooks* están divididos en semanas y abarcan las siguientes temáticas:
   -  Uso de filtros en python
   -  Estadística Inferencial
 8. Semana VIII
-  - Distibuciones de probabilidad continuas: Distribución Gaussiana
+  - Distibuciones de probabilidad continua
  
