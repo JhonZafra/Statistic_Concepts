@@ -30,4 +30,6 @@ Los *notebooks* están divididos en semanas y abarcan las siguientes temáticas:
   -  Estadística Inferencial
 8. Semana VIII
   - Distibuciones de probabilidad continua
+9. Semana IX
+  - 
  
