@@ -30,6 +30,7 @@ Los *notebooks* están divididos en semanas y abarcan las siguientes temáticas:
   -  Estadística Inferencial
 8. Semana VIII
   - Distibuciones de probabilidad continua
+  - Regreción Lineal
 9. Semana IX
-  - 
+  - T-test y prueba de Kolmogorov-Smirnov
  
