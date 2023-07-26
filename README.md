@@ -34,4 +34,5 @@ Los *notebooks* están divididos en semanas y abarcan las siguientes temáticas:
   - Introducción a prueba de hipótesis
 9. Semana IX
   - Prueba t(T-test) y prueba de Kolmogorov-Smirnov
+  - Librería datetime
  
