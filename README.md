@@ -29,8 +29,9 @@ Los *notebooks* están divididos en semanas y abarcan las siguientes temáticas:
   -  Uso de filtros en python
   -  Estadística Inferencial
 8. Semana VIII
-  - Distibuciones de probabilidad continua
+  - Distibuciones de probabilidad continua normal
   - Regreción Lineal
+  - Introducción a prueba de hipótesis
 9. Semana IX
-  - T-test y prueba de Kolmogorov-Smirnov
+  - Prueba t(T-test) y prueba de Kolmogorov-Smirnov
  
