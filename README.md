@@ -39,5 +39,6 @@ Los *notebooks* están divididos en semanas y abarcan las siguientes temáticas:
 10. Semana X
   - Ejemplo modelos: lineal, potencia y exponcial
   - Regresión multilineal y análisis de residuos
+  - Análisis multivariable de datos
 
  
