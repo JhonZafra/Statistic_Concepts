@@ -38,4 +38,6 @@ Los *notebooks* están divididos en semanas y abarcan las siguientes temáticas:
   - Análisis lineal de datos
 10. Semana X
   - Ejemplo modelos: lineal, potencia y exponcial
+  - Regresión multilineal
+
  
