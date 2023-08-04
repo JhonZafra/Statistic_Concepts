@@ -35,10 +35,10 @@ Los *notebooks* están divididos en semanas y abarcan las siguientes temáticas:
 9. Semana IX
   - Prueba t(T-test) y prueba de Kolmogorov-Smirnov
   - Librería datetime
-  - Análisis lineal de datos: PCA (Análisis de componentes principales)
+  - Análisis lineal de datos.
 10. Semana X
   - Ejemplo modelos: lineal, potencia y exponcial
   - Regresión multilineal y análisis de residuos
-  - Análisis multivariable de datos
+  - Análisis multivariable de datos: PCA (Análisis de componentes principales)
 
  
