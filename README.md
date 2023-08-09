@@ -40,5 +40,7 @@ Los *notebooks* están divididos en semanas y abarcan las siguientes temáticas:
   - Ejemplo modelos: lineal, potencia y exponcial
   - Regresión multilineal y análisis de residuos
   - Análisis multivariable de datos: PCA (Análisis de componentes principales)
+11. Semana XI
+  - Análisis multivariable de datos: PCA (Análisis de componentes principales)
 
  
