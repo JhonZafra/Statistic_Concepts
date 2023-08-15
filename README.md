@@ -44,5 +44,6 @@ Los *notebooks* están divididos en semanas y abarcan las siguientes temáticas:
   - Análisis multivariable de datos: PCA (Análisis de componentes principales)
   - Introducción a *Machine Learning*
   - Función de entropía
+12. Semana XII
 
  
