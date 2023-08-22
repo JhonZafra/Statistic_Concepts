@@ -45,7 +45,7 @@ Los *notebooks* están divididos en semanas y abarcan las siguientes temáticas:
   - Introducción a *Machine Learning*
   - Función de entropía
 12. Semana XII
-  - Ejemplo de ML
+  - Árbol de desición, entropia, Gini y _split_ de datos (_training_ y _test_)
   - *K-means Clustering*
 
  
