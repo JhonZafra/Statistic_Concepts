@@ -47,5 +47,6 @@ Los *notebooks* están divididos en semanas y abarcan las siguientes temáticas:
 12. Semana XII
   - Árbol de desición, entropia, Gini y _split_ de datos (_training_ y _test_)
   - *K-means Clustering*
+  - Evaluación de inercias para encontrar el número apropiado de clústers
 
  
