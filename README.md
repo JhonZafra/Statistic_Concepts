@@ -48,5 +48,6 @@ Los *notebooks* están divididos en semanas y abarcan las siguientes temáticas:
   - Árbol de desición, entropia, Gini y _split_ de datos (_training_ y _test_)
   - *K-means Clustering*
   - Evaluación de inercias para encontrar el número apropiado de clústers
+13. Semana XIII
 
  
