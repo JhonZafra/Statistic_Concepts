@@ -49,5 +49,5 @@ Los *notebooks* están divididos en semanas y abarcan las siguientes temáticas:
   - *K-means Clustering*
   - Evaluación de inercias para encontrar el número apropiado de clústers
 13. Semana XIII
-
+  - Coeficientes de silueta para encontrar el número apropiado de clústers
  
