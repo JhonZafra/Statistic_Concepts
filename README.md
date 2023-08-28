@@ -51,4 +51,5 @@ Los *notebooks* están divididos en semanas y abarcan las siguientes temáticas:
 13. Semana XIII
   - Coeficientes de silueta para encontrar el número apropiado de clústers
   - Análisis factorial
+  - Análisis de series de tiempo
  
