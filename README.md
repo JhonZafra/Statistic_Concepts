@@ -52,4 +52,5 @@ Los *notebooks* están divididos en semanas y abarcan las siguientes temáticas:
   - Coeficientes de silueta para encontrar el número apropiado de clústers
   - Análisis factorial
   - Análisis de series de tiempo
- 
+14. Semana XIV
+  - Análisis de series de tiempo
