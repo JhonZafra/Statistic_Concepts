@@ -1,6 +1,7 @@
 # **Métodos estadísticos con Python**
 
-Este material es el recopilado del curso métodos estadísticos usando python como herramienta para la aplicación a casos de estudio.
+Este material es recopilado del diplomado _Métodos Estadísticos para el Análisis de Datos_ impartido por el profesor Ph.D Nicolás Avilán Vargas. Se usa python como lenguaje para las explicaciones y el desarrollo del contenido.
+
 Los *notebooks* están divididos en semanas y abarcan las siguientes temáticas:
 
 1. Semana I
@@ -51,6 +52,5 @@ Los *notebooks* están divididos en semanas y abarcan las siguientes temáticas:
 13. Semana XIII
   - Coeficientes de silueta para encontrar el número apropiado de clústers
   - Análisis factorial
-  - Análisis de series de tiempo
 14. Semana XIV
-  - Análisis de series de tiempo
+  - Análisis de series de tiempo 
