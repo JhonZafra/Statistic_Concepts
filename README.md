@@ -53,4 +53,5 @@ Los *notebooks* están divididos en semanas y abarcan las siguientes temáticas:
   - Coeficientes de silueta para encontrar el número apropiado de clústers
   - Análisis factorial
 14. Semana XIV
-  - Análisis de series de tiempo 
+  - Análisis de series de tiempo
+  - Modelos AR, ARMA, ARIMA
