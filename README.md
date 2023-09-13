@@ -54,4 +54,5 @@ Los *notebooks* están divididos en semanas y abarcan las siguientes temáticas:
   - Análisis factorial
 14. Semana XIV
   - Análisis de series de tiempo
+  - Función de autocorrelación
   - Modelos AR, ARMA, ARIMA, regresión, redes neuronales
