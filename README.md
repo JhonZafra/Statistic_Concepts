@@ -1,4 +1,4 @@
-# **Métodos estadísticos con Python**
+# **Métodos Estadísticos para Análisis de Datos con Python**
 
 Este material es recopilado del diplomado _Métodos Estadísticos para el Análisis de Datos_ impartido por el profesor Ph.D Nicolás Avilán Vargas. Se usa python como lenguaje para las explicaciones y el desarrollo del contenido.
 
